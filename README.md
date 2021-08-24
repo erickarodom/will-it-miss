@@ -11,7 +11,7 @@ You will get a great walkthrough of:
 * [Package management basics](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Package_management)
 * [Sample toolchain setup](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Introducing_complete_toolchain) 
 * Deploying your final project
-* [Final project](https://infallible-engelbart-f292f8.netlify.app/) is an app that uses a NASA api that returns data on space objects that may or may not impact our planet.
+* [My final project](https://infallible-engelbart-f292f8.netlify.app/) is an app that uses a NASA api that returns data on space objects that may or may not impact our planet.
 ## Thoughts
 This project was exactly what I needed at the time.  I had been working a lot with WordPress and Elementor.  I had gotten a bit rusty using command line, bundlers, etc., and needed a quick sensible walkthrough.
 I was familiar with all the topics, since they were things I had gone over in bootcamp, but needed something I could do in an afternoon that would bring it all back.
