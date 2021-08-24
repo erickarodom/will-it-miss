@@ -6,10 +6,10 @@ how to install them using package managers, and control them using the command l
 ## Guides
 This project is great for a beginner or if you need a quick refresher on basic frontend toolchaining concepts and setup. 
 You will get a great walkthrough of:
-* Client-side tooling overview
+* [Client-side tooling overview](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Overview)
 * Command line refresher
-* Package management basics
-* Sample toolchain setup 
+* [Package management basics](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Package_management)
+* [Sample toolchain setup](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Introducing_complete_toolchain) 
 * Deploying your final project
 * [Final project](https://infallible-engelbart-f292f8.netlify.app/) is an app that uses a NASA api that returns data on space objects that may or may not impact our planet.
 ## Thoughts
