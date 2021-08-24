@@ -189,7 +189,7 @@ var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"E:\\Edogery\\Documents\\Coding\\mdn-projects\\will-it-miss\\src\\img\\stars.svg":[["stars.a9420289.svg","img/stars.svg"],"img/stars.svg"],"E:\\Edogery\\Documents\\Coding\\mdn-projects\\will-it-miss\\src\\img\\bg.svg":[["bg.5d54abde.svg","img/bg.svg"],"img/bg.svg"],"E:\\Edogery\\Documents\\Coding\\mdn-projects\\will-it-miss\\src\\img\\asteriod2.svg":[["asteriod2.f7a6d6d8.svg","img/asteriod2.svg"],"img/asteriod2.svg"],"E:\\Edogery\\Documents\\Coding\\mdn-projects\\will-it-miss\\src\\img\\asteriod1.svg":[["asteriod1.ba3338f9.svg","img/asteriod1.svg"],"img/asteriod1.svg"],"_css_loader":"../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"E:\\Edogery\\Documents\\Coding\\mdn-projects\\will-it-miss\\src\\img\\spacebackground2.jpg":[["spacebackground2.b4fcc32e.jpg","img/spacebackground2.jpg"],"img/spacebackground2.jpg"],"E:\\Edogery\\Documents\\Coding\\mdn-projects\\will-it-miss\\src\\img\\asteriod2.svg":[["asteriod2.f7a6d6d8.svg","img/asteriod2.svg"],"img/asteriod2.svg"],"E:\\Edogery\\Documents\\Coding\\mdn-projects\\will-it-miss\\src\\img\\asteriod1.svg":[["asteriod1.ba3338f9.svg","img/asteriod1.svg"],"img/asteriod1.svg"],"_css_loader":"../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -217,7 +217,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "53422" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "51375" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
